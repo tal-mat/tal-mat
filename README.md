@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**tal-mat/tal-mat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Tal 😄
 
-Here are some ideas to get you started:
+- 👩‍🎓 I’m currently learning Python and Web (HTML, CSS, JavaScript).
+- 💻 I’m looking for technological role (Entry level).
+- 🎨 I will present here the current projects I am working on.
+- 📋 My CV appears on my LinkedIn (on the left). 
+- ⚡ Fun fact: Marvel movies fan in front of you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+:point_down: Projects below: 
+ 
+## **Hangman-Game**:
+*written in basic python.*
+
+[![hangman](https://user-images.githubusercontent.com/118768187/203155270-59788ce2-7604-485f-baa2-104b76f60b2c.png)](https://github.com/tal-mat/Hangman-Game)
+
+
+
+
