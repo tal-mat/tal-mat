@@ -15,6 +15,8 @@
 ## **Hangman-Game**:
 *written in basic python.*
 
+<a href="[default.asp](https://github.com/tal-mat/Hangman-Game)"><img src="[smiley.gif](https://user-images.githubusercontent.com/118768187/203155270-59788ce2-7604-485f-baa2-104b76f60b2c.png)" alt="hangman" style="width:464px;"></a>
+
 [![hangman](https://user-images.githubusercontent.com/118768187/203155270-59788ce2-7604-485f-baa2-104b76f60b2c.png](https://github.com/tal-mat/Hangman-Game)
 
 ## **Hotel Website**:
