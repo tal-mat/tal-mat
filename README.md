@@ -20,8 +20,5 @@
 ## **Hotel Website**:
 *Written in HTML and basic CSS | Made in Modern HTML & CSS by Brad Traversy*
 
-[![Hotel](https://user-images.githubusercontent.com/118768187/211149458-9b3be1f3-0746-4876-9a87-b017719f3fbf.png))](https://github.com/tal-mat/hotel_website)
-
-
-
+[![Hotel](https://user-images.githubusercontent.com/118768187/211149709-6a0b5853-9774-4779-b51d-8b105422ed61.png)](https://github.com/tal-mat/hotel_website)
 
