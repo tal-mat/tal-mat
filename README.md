@@ -22,3 +22,9 @@
 
 [![Hotel](https://user-images.githubusercontent.com/118768187/211149709-6a0b5853-9774-4779-b51d-8b105422ed61.png)](https://github.com/tal-mat/hotel_website)
 
+## **Edgeledger Website**:
+*Written in HTML and CSS | Made in Modern HTML & CSS by Brad Traversy*
+
+[![edge](https://user-images.githubusercontent.com/118768187/212734917-1d2d0d0e-f4d9-4150-9630-118c9fa75ff6.png)](https://github.com/tal-mat/edgeledger_website)
+
+
