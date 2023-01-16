@@ -25,6 +25,7 @@
 ## **Edgeledger Website**:
 *Written in HTML and CSS | Made in Modern HTML & CSS by Brad Traversy*
 
-[![edge](https://user-images.githubusercontent.com/118768187/212734917-1d2d0d0e-f4d9-4150-9630-118c9fa75ff6.png)](https://github.com/tal-mat/edgeledger_website)
+[![Edge)](https://user-images.githubusercontent.com/118768187/212735860-f81f6716-7ec8-4965-b37a-387766fc3f30.png)](https://github.com/tal-mat/edgeledger_website)
+
 
 
