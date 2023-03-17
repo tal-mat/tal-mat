@@ -27,5 +27,9 @@
 
 [![Edge)](https://user-images.githubusercontent.com/118768187/212735860-f81f6716-7ec8-4965-b37a-387766fc3f30.png)](https://github.com/tal-mat/edgeledger_website)
 
+## **NewsGrid Website**:
+*Written in HTML and CSS with Grid | Made in Modern HTML & CSS by Brad Traversy*
+
+[![newsgrid)](https://user-images.githubusercontent.com/118768187/225910198-0cd2ff8c-9470-4961-97ba-fced797c0ac3.png)](https://github.com/tal-mat/newsgrid)
 
 
