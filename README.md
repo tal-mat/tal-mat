@@ -36,7 +36,7 @@ Written in HTML and CSS by SASS | Made in Modern HTML & CSS by Brad Traversy
 [![portfolio)](https://user-images.githubusercontent.com/118768187/230383296-bfb2a3cd-528d-4381-8915-c61b4dc08c3c.png)](https://github.com/tal-mat/portfolio_website)
 
 ## *Trivia Game*:
-Written in Python and focused on multiplayer TCP server. | Made in Network.PY by  CampusIL
+Written in Python and focused on multiplayer TCP server | Made in Network.Py by CampusIL
 
 [![trivia)](https://github.com/tal-mat/tal-mat/assets/118768187/4b0552de-555e-4e51-bdd0-b37d1eabc76a)](https://github.com/tal-mat/trivia)
 
