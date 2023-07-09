@@ -10,7 +10,7 @@
 
 :point_down: Projects below (private only): 
  
-## *Hangman-Game*:
+## *Hangman Game*:
 Written in basic python | Made in Self.Py by CampusIL
 
 [![hangman](https://user-images.githubusercontent.com/118768187/203155270-59788ce2-7604-485f-baa2-104b76f60b2c.png)](https://github.com/tal-mat/Hangman-Game)
