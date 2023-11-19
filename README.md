@@ -39,3 +39,13 @@ Written in HTML and CSS by SASS | Made in Modern HTML & CSS by Brad Traversy
 Written in Python and focused on multiplayer TCP server | Made in Network.Py by CampusIL
 
 [![trivia)](https://github-production-user-asset-6210df.s3.amazonaws.com/118768187/252157111-a8960c81-35da-4b5e-97a7-caa2ded17e80.png)](https://github.com/tal-mat/trivia)
+
+## *Good Deeds Bbot In Telegram*:
+Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
+<br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
+<br>Thus, the bot's purpose is to connect by location between those who want to volunteer to people who have help requests.
+
+[![bot1 (2)](https://github.com/tal-mat/tal-mat/assets/118768187/9fff300c-e761-49eb-aa93-9b479256efeb)](https://github.com/grurniClasses/telegram-bot-hackathon-good-deeds/tree/main)
+
+
+
