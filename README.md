@@ -8,7 +8,7 @@
 - 📋 My CV appears on my LinkedIn. 
 - ⚡ Fun fact: Marvel fan in front of you.
 
-:point_down: Projects below (private only): 
+:point_down: Projects below: 
  
 ## *Hangman Game*:
 Written in basic python | Made in Self.Py by CampusIL
