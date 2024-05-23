@@ -30,7 +30,7 @@ Written in HTML and CSS with Grid | Made in Modern HTML & CSS by Brad Traversy
 
 [![newsgrid)](https://user-images.githubusercontent.com/118768187/225910198-0cd2ff8c-9470-4961-97ba-fced797c0ac3.png)](https://github.com/tal-mat/newsgrid)
 
-## *Portfolio Website Website*:
+## *Portfolio Website*:
 Written in HTML and CSS by SASS | Made in Modern HTML & CSS by Brad Traversy
 
 [![portfolio)](https://user-images.githubusercontent.com/118768187/230383296-bfb2a3cd-528d-4381-8915-c61b4dc08c3c.png)](https://github.com/tal-mat/portfolio_website)
@@ -47,7 +47,7 @@ Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as
 
 [![bot1 (2)](https://github.com/tal-mat/tal-mat/assets/118768187/9fff300c-e761-49eb-aa93-9b479256efeb)](https://github.com/grurniClasses/telegram-bot-hackathon-good-deeds/tree/main)
 
-## *My Personal Blog*:
+## *My Personal Blog*:  *⚠️ still under development ⚠️*
 [Front End Side](https://github.com/tal-mat/BlogFrontEnd) written in JavaScript using React.
 <br>[Back End Side](https://github.com/tal-mat/BlogBackEnd) written in TypeScript using Node.JS, Express.
 <br>Database was made in PostgreSQL. 
