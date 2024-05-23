@@ -49,7 +49,7 @@ Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as
 
 ## *My Personal Blog*:  
 *⚠️ still under development ⚠️*
-[Front End Side](https://github.com/tal-mat/BlogFrontEnd) written in JavaScript using React.
+<br>[Front End Side](https://github.com/tal-mat/BlogFrontEnd) written in JavaScript using React.
 <br>[Back End Side](https://github.com/tal-mat/BlogBackEnd) written in TypeScript using Node.JS, Express.
 <br>Database was made in PostgreSQL. 
 
