@@ -48,7 +48,7 @@ Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as
 [![bot1 (2)](https://github.com/tal-mat/tal-mat/assets/118768187/9fff300c-e761-49eb-aa93-9b479256efeb)](https://github.com/grurniClasses/telegram-bot-hackathon-good-deeds/tree/main)
 
 ## *My Personal Blog*:  
-*⚠️ still under development ⚠️*
+**⚠️ still under development ⚠️**
 <br>[Front End Side](https://github.com/tal-mat/BlogFrontEnd) written in JavaScript using React.
 <br>[Back End Side](https://github.com/tal-mat/BlogBackEnd) written in TypeScript using Node.JS, Express.
 <br>Database was made in PostgreSQL. 
