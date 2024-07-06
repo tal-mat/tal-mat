@@ -15,6 +15,11 @@ Written in basic python | Made in Self.Py by CampusIL
 
 [![hangman](https://user-images.githubusercontent.com/118768187/203155270-59788ce2-7604-485f-baa2-104b76f60b2c.png)](https://github.com/tal-mat/Hangman-Game)
 
+## *Trivia Game*:
+Written in Python and focused on multiplayer TCP server | Made in Network.Py by CampusIL
+
+[![trivia)](https://github-production-user-asset-6210df.s3.amazonaws.com/118768187/252157111-a8960c81-35da-4b5e-97a7-caa2ded17e80.png)](https://github.com/tal-mat/trivia)
+
 ## *Hotel Website*:
 Written in HTML and basic CSS | Made in Modern HTML & CSS by Brad Traversy
 
@@ -35,10 +40,10 @@ Written in HTML and CSS by SASS | Made in Modern HTML & CSS by Brad Traversy
 
 [![portfolio)](https://user-images.githubusercontent.com/118768187/230383296-bfb2a3cd-528d-4381-8915-c61b4dc08c3c.png)](https://github.com/tal-mat/portfolio_website)
 
-## *Trivia Game*:
-Written in Python and focused on multiplayer TCP server | Made in Network.Py by CampusIL
+## *Guess My Number*:
+Written in Vanilla JavaScript | Made in the JavaScript Course by Jonas Schmedtmann
 
-[![trivia)](https://github-production-user-asset-6210df.s3.amazonaws.com/118768187/252157111-a8960c81-35da-4b5e-97a7-caa2ded17e80.png)](https://github.com/tal-mat/trivia)
+[![Guess My Number](https://github.com/tal-mat/tal-mat/assets/118768187/5f9bba87-04df-4053-8898-28a93d15339c)](https://github.com/tal-mat/GuessMyNumber)
 
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
@@ -54,6 +59,7 @@ Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as
 <br>Database was made in PostgreSQL. 
 
 ![blog (1)](https://github.com/tal-mat/tal-mat/assets/118768187/2f324d09-5d24-490f-a4c5-33fef912baaa)
+
 
 
 
