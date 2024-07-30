@@ -50,6 +50,11 @@ Written in Vanilla JavaScript | Made in the JavaScript Course by Jonas Schmedtma
 
 [![The Pig Game](https://github.com/tal-mat/tal-mat/assets/118768187/360b6095-e690-473d-8fb3-a235e81f6d6f)](https://github.com/tal-mat/PigGame)
 
+## *Bankist*:
+Written in JavaScript with arrays, numbers, dates, and timers using a modern banking app | Made in the JavaScript Course by Jonas Schmedtmann<br>
+
+[![Bankist](https://github.com/user-attachments/assets/ef661f7f-1f25-4fac-a8a4-350ebf30928f)](https://github.com/tal-mat/Bankist)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
