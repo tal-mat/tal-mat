@@ -55,6 +55,12 @@ Written in JavaScript with arrays, numbers, dates, and timers using a modern ban
 
 [![Bankist](https://github.com/user-attachments/assets/ef661f7f-1f25-4fac-a8a4-350ebf30928f)](https://github.com/tal-mat/Bankist)
 
+## *Marketing Website for the Bankist App*:
+Written in JavaScript, this marketing website for the fictional Bankist App includes DOM manipulation, smooth scrolling, and animations.
+<br>It also features lazy loading, sticky navigation, and interactive components. | Made in the JavaScript Course by Jonas Schmedtmann.
+
+[![BankistMarketingWebsite](https://github.com/user-attachments/assets/1f1e5167-e3f2-4bd1-a1a0-8f6477aada9c)](https://github.com/tal-mat/MarketingWebsiteForBankistApp)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
