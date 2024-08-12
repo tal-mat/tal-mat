@@ -63,8 +63,8 @@ Written in JavaScript, this marketing website for the fictional Bankist App incl
 
 ## *Mapty*:
 
-Written in JavaScript using OOP, the Mapty application allows users to log and visualize their outdoor activities, running and cycling, on interactive maps. 
-<br>It includes features like adding activities to the map, storing them in local storage, and displaying detailed route information. | Made in the JavaScript Course by Jonas Schmedtmann.
+Written in JavaScript using OOP, the Mapty app allows users to log and visualize their outdoor activities, running and cycling, on interactive map. 
+<br>user-friendly interface for adding activities on the map and storing them in local storage until the user decides to delete them. | Made in the JavaScript Course by Jonas Schmedtmann.
 
 [![Mapty](https://github.com/user-attachments/assets/23cf3561-93fb-47fb-8da3-0ea7c4f404e8)](https://github.com/tal-mat/Mapty)
 
