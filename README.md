@@ -61,6 +61,13 @@ Written in JavaScript, this marketing website for the fictional Bankist App incl
 
 [![BankistMarketingWebsite](https://github.com/user-attachments/assets/1f1e5167-e3f2-4bd1-a1a0-8f6477aada9c)](https://github.com/tal-mat/MarketingWebsiteForBankistApp)
 
+## *Mapty*:
+
+Written in JavaScript using OOP, the Mapty application allows users to log and visualize their outdoor activities, running and cycling, on interactive maps. 
+<br>It includes features like adding activities to the map, storing them in local storage, and displaying detailed route information. | Made in the JavaScript Course by Jonas Schmedtmann.
+
+[![Mapty](https://github.com/user-attachments/assets/23cf3561-93fb-47fb-8da3-0ea7c4f404e8)](https://github.com/tal-mat/Mapty)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
