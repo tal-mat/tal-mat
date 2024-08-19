@@ -64,9 +64,17 @@ Written in JavaScript, this marketing website for the fictional Bankist App incl
 ## *Mapty*:
 
 Written in JavaScript using OOP, the Mapty app allows users to log and visualize their outdoor activities, running and cycling, on interactive map. 
-<br>user-friendly interface for adding activities on the map and storing them in local storage until the user decides to delete them. | Made in the JavaScript Course by Jonas Schmedtmann.
+<br>User-friendly interface for adding activities on the map and storing them in local storage until the user decides to delete them. | Made in the JavaScript Course by Jonas Schmedtmann.
 
 [![Mapty](https://github.com/user-attachments/assets/23cf3561-93fb-47fb-8da3-0ea7c4f404e8)](https://github.com/tal-mat/Mapty)
+
+## *Forkify*:
+
+Written in Vanilla JavaScript with OOP principles, Forkify is a web app that lets users search for recipes, view details, and save favorites. 
+<br>It uses the Forkify API for data and offers an interactive, user-friendly interface.
+<br>It features a clean and modular code structure. | Made in the JavaScript Course by Jonas Schmedtmann.
+
+[![forkify](https://github.com/user-attachments/assets/aa3b25f8-5e22-4b77-8e90-dd764a41dd47)](https://github.com/tal-mat/forkify)
 
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
