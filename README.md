@@ -78,6 +78,14 @@ Written in Vanilla JavaScript with OOP principles, Forkify is a web app that let
 
 [![forkify](https://github.com/user-attachments/assets/aa3b25f8-5e22-4b77-8e90-dd764a41dd47)](https://github.com/tal-mat/forkify)
 
+## *Far Away Packing List*:
+
+Written in React with a focus on states, Far Away Packing List is a web application for organizing and managing trip packing lists.
+<br>The app allows users to add items to a packing list, mark items as packed, delete individual items, and clear the entire list.
+<br>Made in the React Course by Jonas Schmedtmann.
+
+[![Far Away App](https://github.com/user-attachments/assets/f78fb847-f64e-45a3-ae78-9a91ebeb06d1)](https://github.com/tal-mat/FarAwayPackingList)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
