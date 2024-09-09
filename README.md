@@ -86,6 +86,13 @@ Written in React with a focus on states, Far Away Packing List is a web applicat
 
 [![Far Away App](https://github.com/user-attachments/assets/f78fb847-f64e-45a3-ae78-9a91ebeb06d1)](https://github.com/tal-mat/FarAwayPackingList)
 
+## *Classy Weather*:
+
+Written in Class-Based React components for experienced in times prior to the introduction of Hooks, Classy Weather provides weather forecasts with search functionality, condition icons, and temperature ranges for specified countries.
+<br>Made in the React Course by Jonas Schmedtmann.
+
+[![Classy Weather](https://github.com/user-attachments/assets/5649ce1f-f3a5-4cb5-8c9a-6089b2e0c242)](https://github.com/tal-mat/ClassyWeather)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
