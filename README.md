@@ -86,6 +86,13 @@ Written in React with a focus on states, Far Away Packing List is a web applicat
 
 [![Far Away App](https://github.com/user-attachments/assets/f78fb847-f64e-45a3-ae78-9a91ebeb06d1)](https://github.com/tal-mat/FarAwayPackingList)
 
+## *usePopcorn*:
+
+Written using React technologies, focusing on useState, useEffect, and custom Hooks, this movie tracker app lets users search for movies, view details, rate them, and manage a watched list. | Made in the React Course by Jonas Schmedtmann.
+<br>
+
+[![usePopcorn](https://github.com/user-attachments/assets/4cfa0192-552f-432c-ab65-b5c69716c57f))](https://github.com/tal-mat/usePopcorn)
+
 ## *Classy Weather*:
 
 Written in Class-Based React components for experienced in times prior to the introduction of Hooks, Classy Weather provides weather forecasts with search functionality, condition icons, and temperature ranges for specified countries.
