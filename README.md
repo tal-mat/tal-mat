@@ -100,6 +100,12 @@ Written in Class-Based React components for experienced in times prior to the in
 
 [![Classy Weather](https://github.com/user-attachments/assets/5649ce1f-f3a5-4cb5-8c9a-6089b2e0c242)](https://github.com/tal-mat/ClassyWeather)
 
+## React Quiz*:
+
+Written in React, this Quiz Application is an American quiz about React, focusing on utilizing the useReducer hook and the Context API to manage state and provide context across the application. Made in the React Course by Jonas Schmedtmann.
+
+[![ReactQuiz](https://github.com/user-attachments/assets/dedd1a72-263b-4789-9e78-00379361470b)](https://github.com/tal-mat/ReactQuiz)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
