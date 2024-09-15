@@ -100,7 +100,7 @@ Written in Class-Based React components for experienced in times prior to the in
 
 [![Classy Weather](https://github.com/user-attachments/assets/5649ce1f-f3a5-4cb5-8c9a-6089b2e0c242)](https://github.com/tal-mat/ClassyWeather)
 
-## React Quiz*:
+## React Quiz:
 
 Written in React, this Quiz Application is an American quiz about React, focusing on utilizing the useReducer hook and the Context API to manage state and provide context across the application. Made in the React Course by Jonas Schmedtmann.
 
