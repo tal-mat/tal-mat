@@ -106,6 +106,12 @@ Written in React, this Quiz Application is an American quiz about React, focusin
 
 [![ReactQuiz](https://github.com/user-attachments/assets/dedd1a72-263b-4789-9e78-00379361470b)](https://github.com/tal-mat/ReactQuiz)
 
+## World Wise:
+
+Written in React, WorldWise is a web application that allows users to write and manage their notes based on personal experiences in various cities around the world. Made in the React Course by Jonas Schmedtmann.
+
+[![WorldWise](https://github.com/user-attachments/assets/1ae84b13-3325-4ebd-b567-600b8cdc1c18)](https://github.com/tal-mat/WorldWise)
+
 ## Fast React Pizza:
 
 Written in React, Fast React Pizza lets users order customizable pizzas online, with features like user authentication and cart management. It uses Tailwind CSS for responsive design and Redux for state management, with tools like Vite and Prettier for smooth development.
