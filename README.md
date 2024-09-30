@@ -106,6 +106,13 @@ Written in React, this Quiz Application is an American quiz about React, focusin
 
 [![ReactQuiz](https://github.com/user-attachments/assets/dedd1a72-263b-4789-9e78-00379361470b)](https://github.com/tal-mat/ReactQuiz)
 
+## Fast React Pizza:
+
+Written in React, Fast React Pizza lets users order customizable pizzas online, with features like user authentication and cart management. It uses Tailwind CSS for responsive design and Redux for state management, with tools like Vite and Prettier for smooth development.
+<br>Made in the React Course by Jonas Schmedtmann.
+
+[![Pizza project](https://github.com/user-attachments/assets/87f67b42-ef20-4d5e-bcf1-175dbb0204df)](https://github.com/tal-mat/FastReactPizza)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
