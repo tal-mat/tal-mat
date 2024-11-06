@@ -119,6 +119,14 @@ Written in React, Fast React Pizza lets users order customizable pizzas online, 
 
 [![Pizza project](https://github.com/user-attachments/assets/87f67b42-ef20-4d5e-bcf1-175dbb0204df)](https://github.com/tal-mat/FastReactPizza)
 
+## The Wild Oasis:
+
+Written in React, The Wild Oasis is a resort management tool for employees, featuring secure booking management, real-time updates, customizable settings, and a dashboard for key metrics.
+Backend powered by Supabase. 
+<br>Made in the React Course by Jonas Schmedtmann.
+
+[![TheWildOasis](https://github.com/user-attachments/assets/8210eee6-3f5a-4adb-9c7f-4858a7762549)](https://github.com/tal-mat/TheWildOasis)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
