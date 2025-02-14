@@ -127,6 +127,14 @@ Backend powered by Supabase.
 
 [![TheWildOasis](https://github.com/user-attachments/assets/8210eee6-3f5a-4adb-9c7f-4858a7762549)](https://github.com/tal-mat/TheWildOasis)
 
+## The Wild Oasis:
+
+Built with Next.js and React, The Wild Oasis is a continuation of the resort management tool, but this time, it’s designed for users. It allows users to explore accommodations, check availability, and make bookings, all while providing a smooth and seamless experience.
+The backend is powered by Supabase.
+<br>Made in the React Course by Jonas Schmedtmann.
+
+[![The-Wild-Oasis](https://github.com/user-attachments/assets/6dbf1150-940c-4c1c-8283-eeb0c7e54076)](https://github.com/tal-mat/the-wild-oasis)
+
 ## *Good Deeds Bot In Telegram*:
 Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as a part of a hackathon.
 <br>During the "Iron Swords" war, people were looking for a way to ask for help and to find those who could help them. 
