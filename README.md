@@ -2,8 +2,8 @@
 
 # My name is Tal 😄
 
-- 👩‍🎓 I’m a full stack developer.
-- 💻 I’m looking for a technological role (Entry level).
+- 👩‍🎓 I’m a full stack developer (Python, JavaScript / TypeScript).
+- 💻 I’m looking for a technological role.
 - 🎨 I will present here the current projects I am working on.
 - 📋 My CV appears on my LinkedIn. 
 - ⚡ Fun fact: Marvel fan in front of you.
