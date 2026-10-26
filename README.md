@@ -1,7 +1,3 @@
-👩🏻‍💻 Tal | AI & Full Stack Developer
-
-:point_down: Projects below: 
- 
 ## *Hangman Game*:
 Written in basic python | Made in Self.Py by CampusIL.
 
