@@ -1,4 +1,4 @@
-Tal | AI & Full Stack Developer.
+👩🏻‍💻 Tal | AI & Full Stack Developer
 
 :point_down: Projects below: 
  
