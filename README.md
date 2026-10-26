@@ -1,12 +1,4 @@
-## Hi there 👋
-
-# My name is Tal 😄
-
-- 👩‍🎓 I’m a full stack developer (Python, JavaScript / TypeScript).
-- 💻 I’m looking for a technological role.
-- 🎨 I will present here the current projects I am working on.
-- 📋 My CV appears on my LinkedIn. 
-- ⚡ Fun fact: Marvel fan in front of you.
+Tal | AI & Full Stack Developer.
 
 :point_down: Projects below: 
  
@@ -142,13 +134,20 @@ Written in Python using Poetry, MONGODB and GIT. The bot was made in teamwork as
 
 [![bot1 (2)](https://github.com/tal-mat/tal-mat/assets/118768187/9fff300c-e761-49eb-aa93-9b479256efeb)](https://github.com/grurniClasses/telegram-bot-hackathon-good-deeds/tree/main)
 
-## *My Personal Blog*:  
-**⚠️ still under development ⚠️**
-<br>[Front End Side](https://github.com/tal-mat/BlogFrontEnd) written in JavaScript using React.
-<br>[Back End Side](https://github.com/tal-mat/BlogBackEnd) written in TypeScript using Node.JS, Express.
-<br>Database was made in PostgreSQL. 
+## *Wheelchair User Detection in Street Imagery*:
+Written in Python, an object detection project that fine-tunes YOLOv8 to find and count wheelchair users in street photographs, supporting accessibility planning.
+<br>Two independent hyperparameter search strategies (sequential vs. Successive Halving) were compared under controlled conditions, followed by calibration and TIDE-style error analysis.
+<br>Reaches F1 = 0.946 on wheelchair users on a held-out test split. | Made in teamwork in Applied Computer Vision, Reichman University.
 
-![blog (1)](https://github.com/tal-mat/tal-mat/assets/118768187/2f324d09-5d24-490f-a4c5-33fef912baaa)
+[![WheelchairDetection](https://github.com/user-attachments/assets/443969e8-b997-46d2-ad52-0ea6eada3d98)](https://github.com/tal-mat/cv-group-project)
+
+## *Code Copilot on CodeSearchNet*:
+Written in Python, a small RAG-based coding assistant that retrieves the right function from CodeSearchNet, explains it with Qwen2.5-Coder, cites the source, or abstains when unsure.
+<br>Uses MiniLM embeddings with Chroma, a keyword tool and a calibrated confidence gate, plus a 16-run LoRA study evaluated with ROUGE-L and LLM judges.
+<br>Reaches 83.3% end-to-end success on the test split. | Made in Google & Reichman AI Tech School.
+
+[![CodeCopilot](https://github.com/user-attachments/assets/4af960fa-662f-49ed-abe4-b0cc47a4d12d)](https://github.com/tal-mat/code-copilot)
+
 
 
 
